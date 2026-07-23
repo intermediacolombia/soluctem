@@ -1,2 +1,3 @@
-\admin\admin\inc\config.php
+/admininc/config.php
+/admin/inc/config-release.php
 deploy.ps1
