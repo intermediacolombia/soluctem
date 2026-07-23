@@ -1,0 +1,2 @@
+[01-Oct-2024 20:43:26 UTC] PHP Warning:  require_once(../pdf_/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/soluctem/sistema.soluctem.com.co/admin/pdf/index.php on line 13
+[01-Oct-2024 20:43:26 UTC] PHP Fatal error:  require_once(): Failed opening required '../pdf_/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/soluctem/sistema.soluctem.com.co/admin/pdf/index.php on line 13

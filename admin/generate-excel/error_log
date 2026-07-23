@@ -1,0 +1,123 @@
+[09-Oct-2024 15:03:23 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:03:23 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:03:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:03:46 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:03:46 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:03:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:03:48 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:03:48 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:03:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:04:19 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:04:19 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:04:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:04:20 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:04:20 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:04:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:04:21 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:04:21 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:04:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:04:21 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:04:21 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:04:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:04:22 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:04:22 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:04:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:04:22 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:04:22 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:04:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:04:23 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:04:23 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:04:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:04:23 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:04:23 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:04:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:04:24 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:04:24 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:04:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:04:24 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:04:24 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:04:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:04:25 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:04:25 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:04:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:05:20 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:05:20 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:05:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:05:21 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:05:21 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:05:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:05:22 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:05:22 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:05:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:05:22 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:05:22 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:05:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:05:23 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 20
+[09-Oct-2024 15:05:23 UTC] PHP Notice:  Undefined index: fecha_fin in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 21
+[09-Oct-2024 15:05:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 28
+[09-Oct-2024 15:06:54 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 2
+[09-Oct-2024 15:06:54 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 2
+[09-Oct-2024 15:06:55 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 2
+[09-Oct-2024 15:06:55 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 2
+[09-Oct-2024 15:07:16 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 19
+[09-Oct-2024 15:07:17 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 19
+[09-Oct-2024 15:07:27 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 19
+[09-Oct-2024 15:07:28 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 19
+[09-Oct-2024 15:07:29 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/soluctem/sistema.soluctem.com.co/admin/generate-excel/index.php on line 19

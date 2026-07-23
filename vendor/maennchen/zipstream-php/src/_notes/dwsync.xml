@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CentralDirectoryFileHeader.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="CompressionMethod.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="DataDescriptor.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="EndOfCentralDirectory.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="Exception.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="File.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="GeneralPurposeBitFlag.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="LocalFileHeader.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="OperationMode.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="PackField.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="Time.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="Version.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+<file name="ZipStream.php" server="altar38.supremepanel38.com/sistema.soluctem.com.co/" local="133824424720000000" remote="133825871400000000" Dst="0" />
+</dwsync>

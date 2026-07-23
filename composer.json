@@ -1,0 +1,15 @@
+{
+    "name": "inter/admin",
+    "description": "Módulo administrativo del sistema SOLUCTEM CLOUD",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Intermedia"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpoffice/phpspreadsheet": "^3.9"
+    }
+}
