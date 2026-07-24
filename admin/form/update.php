@@ -172,7 +172,7 @@ if ($conexion->query($sql) === TRUE) {
 }
 
 // Manejo de imágenes
-$uploadDir = '/home/soluctem/sistema.soluctem.com.co/uploads/'; // Directorio donde guardar las imágenes en el servidor
+$uploadDir = $ruta_base . '/uploads/'; // Directorio donde guardar las imágenes en el servidor
 $relativeDir = '/uploads/'; // Ruta relativa que se guardará en la base de datos
 
 try {

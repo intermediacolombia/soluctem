@@ -35,7 +35,7 @@ if ($esImagenValida === false) {
     exit;
 }
 
-$uploadDir   = '/home/soluctem/sistema.soluctem.com.co/uploads/';
+$uploadDir   = $ruta_base . '/uploads/';
 $relativeDir = '/uploads/';
 
 $timestamp     = round(microtime(true) * 1000);

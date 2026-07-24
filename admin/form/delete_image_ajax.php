@@ -20,7 +20,7 @@ if ($image_id > 0) {
         $imagen = $resultado_imagen->fetch_assoc()['imagen'];
 
         // Convertir la ruta relativa a absoluta si es necesario
-        $ruta_absoluta = '/home/soluctem/sistema.soluctem.com.co' . $imagen; // Asegúrate de que esta ruta es correcta
+        $ruta_absoluta = $ruta_base . $imagen; // Asegúrate de que esta ruta es correcta
 
         // Eliminar la imagen del servidor
         if (file_exists($ruta_absoluta)) {
