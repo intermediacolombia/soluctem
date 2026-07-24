@@ -1,3 +1,4 @@
+<?php include('../inc/config.php'); ?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -14,15 +15,15 @@
   </tr>
   <tr>
     <th>Razón Social</th>
-    <td>SOLUCTEM S.A.S</td>
+    <td><?= $razon_social ?></td>
     <th>N° NIT</th>
-    <td>901.112.442-1</td>
+    <td><?= $nit ?></td>
   </tr>
   <tr>
     <th>Contacto</th>
-    <td>CARLOS GUERRÓN</td>
+    <td><?= $contacto ?></td>
     <th>Teléfono</th>
-    <td>316 417 7660</td>
+    <td><?= $telefono ?></td>
   </tr>
 	 <tr>
     <th colspan="6">SOLICITANTE Y TIENDA BENEFICIARIA</th>

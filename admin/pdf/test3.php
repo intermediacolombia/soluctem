@@ -227,15 +227,15 @@ td.no-border-left {
    
     <tr>
         <td colspan="4">Razón social</td>
-        <td colspan="5"><strong>SOLUCTEM S.A.S</strong></td>
+        <td colspan="5"><strong><?= $razon_social ?></strong></td>
         <td colspan="2">N° NIT:</td>
-        <td colspan="4"><strong>901.112.442-1</strong></td>
+        <td colspan="4"><strong><?= $nit ?></strong></td>
     </tr>
     <tr>
         <td colspan="4">Contacto:</td>
-        <td colspan="5"><strong>CARLOS GUERRÓN</strong></td>
+        <td colspan="5"><strong><?= $contacto ?></strong></td>
         <td colspan="2">Teléfono:</td>
-        <td colspan="4"><strong>316 417 7660</strong></td>
+        <td colspan="4"><strong><?= $telefono ?></strong></td>
     </tr>
     <tr>
         <th colspan="15">SOLICITANTE Y TIENDA BENEFICIARIA</th>

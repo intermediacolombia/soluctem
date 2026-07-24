@@ -1,3 +1,4 @@
+<?php include('../inc/config.php'); ?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -208,13 +209,13 @@
       <p class="s4" >Razón social</p>
     </td>
     <td colspan="5" >
-      <p class="s5" >SOLUCTEM S.A.S</p>
+      <p class="s5" ><?= $razon_social ?></p>
     </td>
     <td colspan="2" >
       <p class="s4" >N° NIT:</p>
     </td>
     <td colspan="4" >
-      <p class="s5" >901.112.442-1</p>
+      <p class="s5" ><?= $nit ?></p>
     </td>
   </tr>
   <tr >
@@ -222,13 +223,13 @@
       <p class="s4" >Contacto:</p>
     </td>
     <td colspan="5" >
-      <p class="s5" >CARLOS GUERRÓN</p>
+      <p class="s5" ><?= $contacto ?></p>
     </td>
     <td colspan="2" >
       <p class="s4" >Teléfono:</p>
     </td>
     <td colspan="4" >
-      <p class="s5" >316 417 7660</p>
+      <p class="s5" ><?= $telefono ?></p>
     </td>
   </tr>
   <tr >
