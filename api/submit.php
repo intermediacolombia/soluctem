@@ -7,11 +7,11 @@ header("Access-Control-Allow-Headers: Content-Type, Authorization"); // Permitir
 $headers = apache_request_headers();
 $authHeader = isset($headers['Authorization']) ? $headers['Authorization'] : '';
 
-if ($authHeader !== '5fuUMw9Km7FypJFdlaHoSkQvDl4ijrPsuTkzYc47od3T23CacsODQOI72830kld8xmcTa2TzQVDeXQXlR2jGOoL4IttJO0zpFSWmaSE03zbZL15Op4kXAdIljfEqwLYOHzKIbtttsJMFeHdI2YW7qr2Fu5pZJTRR1XmiKK4y5oZch8d6Si5XSpbCq9HGxhQMZHyq7L1AcvT5gyTQ9Uk5xYgcjhMIA1ZcAoU88p5LuzQKxbk7KU3HOECBz0jJJcrPf55dKaUY35oQKoSU223wFh0vIpvK7WWtLiOAEZDkM6UQT9rjbWhjHqgsbdWk8BJKziEbp2mFs6G54fd4TDXZiEUz6uXiswtcIljSIauCp9Du3VJiWAv3uyfpRhCZ8l5ZjQIEQtQYcLQK16KxDgFWbK6QvpGsOts81OTQA0UhFtyzs9E2ziRx8LGgQYGTSzB5o2ahg2MIDl2u2C0') {
+include('../admin/inc/config.php');
+
+if ($authHeader !== $api_auth_token) {
     die(json_encode(['success' => false, 'message' => 'Token de autorización no válido.']));
 }
-
-include('../admin/inc/config.php');
 
 // Conectar a la base de datos
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -159,8 +159,8 @@ try {
 
         // Procesar las imágenes cargadas
         if (!empty($_FILES['images']['name'][0])) {
-            $uploadDir = '/home/soluctem/sistema.soluctem.com.co/uploads/'; // Directorio donde guardar las imágenes en el servidor
-            $relativeDir = '/uploads/'; // Ruta relativa que se guardará en la base de datos
+            $uploadDir = $uploads_dir;
+            $relativeDir = $uploads_rel;
 
             foreach ($_FILES['images']['name'] as $key => $name) {
 				$tmpName = $_FILES['images']['tmp_name'][$key];
