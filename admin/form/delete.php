@@ -57,6 +57,15 @@ if ($formulario_id > 0) {
             $stmt = $conexion->prepare($sql_update_formulario);
             $stmt->bind_param("ssi", $fecha_eliminacion, $usuario_eliminacion, $formulario_id);
             
+            // Borrar archivos del disco antes de eliminar registros
+            $res_imgs = $conexion->query("SELECT imagen FROM imagenes WHERE formulario_id = $formulario_id");
+            if ($res_imgs) {
+                while ($img = $res_imgs->fetch_assoc()) {
+                    $archivo = $ruta_base . $img['imagen'];
+                    if (file_exists($archivo)) @unlink($archivo);
+                }
+            }
+
             // Borrado físico de imágenes
             $sql_delete_imagenes = "DELETE FROM imagenes WHERE formulario_id = $formulario_id";
             
