@@ -59,7 +59,7 @@ if (!empty($_SESSION['imagen_perfil']) && file_exists($_SERVER['DOCUMENT_ROOT'] 
             <a href="/admin/profile" class="dashboard-nav-item <?php echo (strpos($current_page, '/admin/profile/') !== false) ? 'active' : ''; ?>"><i class="fa fa-user"></i> Perfil</a>
             
             <div class="nav-item-divider"></div>
-            <a href="https://api.whatsapp.com/send?phone=573116023776&text=Hola%2C%20Requiero%20soporte%20sobre%20el%20sistema%20de%20Soluctem" class="dashboard-nav-item" target="_blank"><i class="fa fa-whatsapp"></i> Soporte</a>
+            <a href="https://api.whatsapp.com/send?phone=573116023776&text=Hola%2C%20Requiero%20soporte%20sobre%20el%20sistema%20de%20<?php echo $razon_social; ?>" class="dashboard-nav-item" target="_blank"><i class="fa fa-whatsapp"></i> Soporte</a>
 			
             <a href="/admin/logout.php" class="dashboard-nav-item"><i class="fa fa-power-off"></i> Salir</a>
         </nav>
