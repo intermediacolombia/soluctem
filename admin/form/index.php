@@ -144,7 +144,7 @@ if ($formulario_id > 0) {
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 	<!-- Incluir FontAwesome para iconos -->
 	<!-- Incluir FontAwesome para iconos -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-p6olcYFF1lXIVmVQ5gJdfDqL+bq1Q3B3XOBroKR7IZYtWolUjg+K8XwYOlr5M/QjBq1VMYt7z+JtC0Bv0vFN2w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	
 	 <!-- Incluir Bootstrap CSS para estilos -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -883,7 +883,7 @@ $(document).ready(function() {
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 
     <!-- Incluir Popper.js -->
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDuG17x6tUwrVtmTE2WQeIoONfG7jw0iQb3wFa1k3Vxkgx0dbp" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" crossorigin="anonymous"></script>
 
     <!-- Incluir Bootstrap JS -->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
